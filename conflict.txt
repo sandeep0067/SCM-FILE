@@ -1,1 +1,3 @@
-hello from newbranch
+<<<<<<< HEAD
+hello from newbranch and newnewbranch
+>>>>>>> newnewbranch
